@@ -1,7 +1,7 @@
 {
   "name": "Modern-Javascript",
   "version": "1.0.0",
-  "description": "ES5 (2009) through ES2017",
+  "description": "ES5 (2009) through ES2019",
   "main": "index.js",
   "repository": "https://github.com/martinkilmartin/Modern-Javascript.git",
   "author": "martinkilmartin",
