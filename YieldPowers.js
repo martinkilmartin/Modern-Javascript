@@ -2,7 +2,7 @@ function* powers(b) {
   let i = b;
   while (true) {
     yield i;
-    i*=b;
+    i *= b;
   }
 }
 
