@@ -1,9 +1,17 @@
 # Modern-Javascript
 ES5 (2009) -> ES2019
 
-```yarn test```
-```jest test```
-```jest```
+```sh
+yarn test
+```
+
+```sh
+jest test
+```
+
+```sh
+jest
+```
 
 ## ES2017
 ### async and await
